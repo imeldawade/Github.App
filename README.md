@@ -1,27 +1,44 @@
-# Github.App
+## Table of Contents
+1. [Project Name](#Project-Name)
+2. [Description](#Description)
+3. [Author](#Author)
+4. [Technolodges](#Technologies)
+5. [Contacts](#Contacts)
+6. [Project](#Project-live-link)
+7. [Set-Up Instructions](#setup-instructions)
+8. [License](#license)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
+## Project Name
+Github-App
 
-## Development server
+## Description
+This is a Github search application where a user can search a name and the information is displayed about the user and the list of repos the user has.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Author
+* Imelda Wade
 
-## Code scaffolding
+## Technologies                                                             
+* HTML
+* CSS
+* Bootstrap
+* Javascript
+* Typescript
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Contacts
+Email: imelda.wade@student.moringaschool.com
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Project live link
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+##  setup Instructions
+To run this project on your computer/local repository 
 
-## Running end-to-end tests
+fork it from the remote repo:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+then clone it to your local repo.
+
+## License
+MIT [License](/LICENSE) (c) 2022

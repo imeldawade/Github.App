@@ -29,14 +29,14 @@ This is a Github search application where a user can search a name and the infor
 Email: imelda.wade@student.moringaschool.com
 
 ## Project live link
-
+https://imeldawade.github.io/Github.App/
 
 ##  setup Instructions
 To run this project on your computer/local repository 
 
 fork it from the remote repo:
 
-
+https://imeldawade.github.io/Github.App/
 
 then clone it to your local repo.
 
